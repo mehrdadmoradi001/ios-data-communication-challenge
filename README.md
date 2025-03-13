@@ -55,7 +55,7 @@ This project uses a multi-layered architecture:
 
 ## Project Structure
 
-/
+```
 ├── android/                         # Android native code
 │   └── app/src/main/kotlin/
 │       └── com.example.zanis_data_communication/
@@ -72,7 +72,8 @@ This project uses a multi-layered architecture:
 │   ├── part1-voice-recording.mp3   # Voice recording for part 1
 │   └── part3-voice-recording.mp3   # Voice recording for part 3
 │
-└── README.md         
+└── README.md
+```
 
 ## Project Features
 
@@ -108,10 +109,11 @@ This project uses a multi-layered architecture:
    cd ios-data-communication-challenge
 
 ## Demonstration Video and Audio Link
-├── Zanis/                         
-# Documentation and audio files
+```
+├── Zanis/  # Documentation and audio files
 │   ├── # Architectural approach, design patterns, etc Folder
 │   ├── # Dibag and Code Review Folder
 │   └── # System architecture diagram
+```
 
 - (https://drive.google.com/drive/folders/1zBk5gF0iWstFP1cIqwJR6iskdZEp2lqK?usp=sharing)
