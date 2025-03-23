@@ -116,4 +116,4 @@ This project uses a multi-layered architecture:
 │   └── # System architecture diagram
 ```
 
-- (https://drive.google.com/drive/folders/1zBk5gF0iWstFP1cIqwJR6iskdZEp2lqK?usp=sharing)
+
